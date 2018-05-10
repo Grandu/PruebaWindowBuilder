@@ -143,4 +143,4 @@ public class Ventana1 extends JFrame {
 		lblH_3.setBounds(246, 147, 46, 14);
 		contentPane.add(lblH_3);
 	}
-}
+} 
